@@ -20,6 +20,18 @@
    git push origin master
    ```
 
+## 在github粗略统计自己提交的代码次数以及行数
+
+1. 选择一个Public的Repositories，选择Insights，再选择Contributors：
+
+   ![Contributors](https://github.com/SuperCoderMan/MiniX/blob/master/C/Images/Contributors.png)
+
+   再来一个局部的放大图：
+
+   ![Contributor时Details](https://github.com/SuperCoderMan/MiniX/blob/master/C/Images/ContributorsDetails.png)
+
+   这是一个新建的Repositories，数据比较难看。
+
 ## Add “Include” folder to VC project
 
 1. 工程目录结构
