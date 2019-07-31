@@ -45,3 +45,12 @@
    ![project_settings](https://github.com/SuperCoderMan/MiniX/blob/master/C/Images/project_settings.png)
 
    选择C/C++选项卡，把Category更改为Preprocessor，然后在Additional include directories中添加自定义的头文件目录。
+
+
+
+---
+
+[备注]
+
+[图片库路径](https://github.com/SuperCoderMan/MiniX/blob/master/C/Images/)
+
