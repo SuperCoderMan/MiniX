@@ -7,6 +7,7 @@
  */
 
 #include <stdio.h>
+#include "hello_world.h"
 
 /**
  * @function	:	main
@@ -18,7 +19,7 @@
  */
 int main(int argc, char *argv[])
 {
-	printf("Hello World!\n");
+	hello_world();
 
 	return 0;
 }
